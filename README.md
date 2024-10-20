@@ -6,13 +6,6 @@
    <a href="https://t.me/tabssdll">Telegram</a> ・ <a href="https://e-z.bio/tabss">Bio</a> ・ <a href="https://discord.com/users/1160553696048975905">Discord</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/tabssudp/Hotmail-Checker?label=Version&color=a80505&label=V.1">
-  <img src="https://img.shields.io/github/stars/tabssudp/Hotmail-Checker?style=flat&label=Stars&color=a80505">
-  <img src="https://img.shields.io/github/repo-size/tabssudp/Hotmail-Checker?label=Size&color=a80505">
-  <img src="https://img.shields.io/github/languages/top/tabssudp/Hotmail-Checker?color=a80505">
-</p>
-
 <p>
   
   - Developed in <strong>Python</strong>, by <a href="https://e-z.bio/tabss">Tabss</a><br>
