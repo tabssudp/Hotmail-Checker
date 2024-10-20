@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/tabssudp/Hotmail-Checker?label=Version=v.1&color=a80505">
+  <img src="https://img.shields.io/github/v/release/tabssudp/Hotmail-Checker?label=Version&color=a80505&label=V.1">
   <img src="https://img.shields.io/github/stars/tabssudp/Hotmail-Checker?style=flat&label=Stars&color=a80505">
-  <img src="https://img.shields.io/github/repo-size/tabssudp/Hotmail-Checker?label=Size=4kb&color=a80505">
+  <img src="https://img.shields.io/github/repo-size/tabssudp/Hotmail-Checker?label=Size&color=a80505">
   <img src="https://img.shields.io/github/languages/top/tabssudp/Hotmail-Checker?color=a80505">
 </p>
 
