@@ -1,4 +1,4 @@
-<img align="center" src="Img/banner.gif" width="100%"> 
+<img align="center" src="Img/banner.webp" width="100%"> 
 
 <h1 align="center">PYTHON HOTMAIL CHECKER</h1>
 
